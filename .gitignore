@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Logs and databases
+*.log
+
+# Virtual environment
+venv_hailo_rpi5_examples/
+
+# IDE files (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Saved images from runtime
+saved_people/
+*.jpg
+
+# Resources that are large or can be generated
+resources/
+
+# Ignore compiled binaries if you plan to recompile them
+compile_postprocess.sh
+
+# Other files to ignore
+*.bak
